@@ -1,0 +1,15 @@
+{
+	"name": "Huge Digital Clock",
+	"short_name": "Huge Digital Clock",
+	"start_url": ".",
+	"background_color": "#00e0ff",
+	"theme_color": "#020024",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "images/clock.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		}
+	]
+}
